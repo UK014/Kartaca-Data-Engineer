@@ -1,5 +1,6 @@
 # Kartaca-Veri-Muhendisi
 Merhaba Bu projede gördükleriniz benim Kartaca veri mühendisliği Task'ı için yaptıklarımdır.
+Projede ortamları kaldırmak için kullandığım Docker-Compose dosyasını, database dosyasını ve yazdığım kodları bulabilirsiniz.
 Maalesef task'ı tam anlamıyla tamamlayamadım.
 Öncelikle task'te istenen her görevi kendi local'imde yapıp çalıştırdım.
 Kodlarım benden istenilen her şeyi eksiksiz bir şekilde yapabiliyor.
