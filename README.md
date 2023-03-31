@@ -1,0 +1,1 @@
+# Kartaca-Veri-M-hendisi
